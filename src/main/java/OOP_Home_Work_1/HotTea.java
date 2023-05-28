@@ -2,7 +2,7 @@ package OOP_Home_Work_1;
 
 public class HotTea extends HotDrink {
     private int temperature;
-    private int price;
+
     public HotTea (String drinkName, int volumeDrink, int drinkPrice, int temperature) {
         super(drinkName, volumeDrink, drinkPrice);
         this.temperature = temperature;
