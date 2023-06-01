@@ -26,7 +26,7 @@ public class Main {
                 .addAnimal(new BabaultiShrimp("Бабаулти"))
                 .addAnimal(new BlueDreamShrimp("Блю Дрим"))
                 .addAnimal(new FarEasternShrimp("Дальневосточная"))
-                .addAnimal(new AlbinoСlawedАrog("Шпорцевая, альбинос"))
+                .addAnimal(new AlbinoClawedFrog("Шпорцевая, альбинос"))
                 .addAnimal(new Gimenohirus("Гименохирус"))
                 .addAnimal(new YellowAmularia("Желтая Амулярия"))
                 .addAnimal(new CrestedNewt("Гребенчатый тритон"));

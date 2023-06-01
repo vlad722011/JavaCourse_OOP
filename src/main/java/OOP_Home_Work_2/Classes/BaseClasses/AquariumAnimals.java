@@ -7,7 +7,6 @@ public abstract class AquariumAnimals {
         this.name = name;
     }
 
-
     public abstract String feed();
 
     public abstract String move();

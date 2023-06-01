@@ -2,8 +2,8 @@ package OOP_Home_Work_2.Classes.Instances;
 
 import OOP_Home_Work_2.Classes.BaseClasses.AquariumFrogs;
 
-public class AlbinoСlawedАrog extends AquariumFrogs {
-    public AlbinoСlawedАrog(String name) {
+public class AlbinoClawedFrog extends AquariumFrogs {
+    public AlbinoClawedFrog(String name) {
         super(name);
     }
 
