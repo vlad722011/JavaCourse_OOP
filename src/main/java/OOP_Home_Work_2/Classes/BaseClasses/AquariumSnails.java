@@ -18,11 +18,6 @@ public abstract class AquariumSnails extends AquariumAnimals{
     }
 
     @Override
-    public String sound() {
-        return "всегда молчит";
-    }
-
-    @Override
     public String move() {
         return "очень медленно ползает";
     }

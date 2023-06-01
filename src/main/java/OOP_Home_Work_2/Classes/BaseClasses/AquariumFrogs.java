@@ -20,11 +20,6 @@ public abstract class AquariumFrogs extends AquariumAnimals implements Jumpable,
     }
 
     @Override
-    public String sound() {
-        return "умеет квакать";
-    }
-
-    @Override
     public String move() {
         return "может ползать, плавать, прыгать";
     }

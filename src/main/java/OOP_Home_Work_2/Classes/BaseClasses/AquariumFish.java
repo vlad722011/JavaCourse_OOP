@@ -24,11 +24,6 @@ public abstract class AquariumFish extends AquariumAnimals implements SpeedSwim 
     }
 
     @Override
-    public String sound() {
-        return "всегда молчит";
-    }
-
-    @Override
     public String move() {
         return "плавает";
     }

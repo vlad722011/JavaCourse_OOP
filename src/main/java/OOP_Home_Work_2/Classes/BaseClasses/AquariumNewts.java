@@ -18,11 +18,6 @@ public abstract class AquariumNewts extends Predators {
     }
 
     @Override
-    public String sound() {
-        return "всегда молчит";
-    }
-
-    @Override
     public String move() {
         return "ползает";
     }

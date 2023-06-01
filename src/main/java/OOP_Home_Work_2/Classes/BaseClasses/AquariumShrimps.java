@@ -18,11 +18,6 @@ public abstract class AquariumShrimps extends Herbivores {
     }
 
     @Override
-    public String sound() {
-        return "всегда молчит";
-    }
-
-    @Override
     public String move() {
         return "может ползать и плавать хвостом вперед";
     }

@@ -28,7 +28,7 @@ public class Main {
                 .addAnimal(new FarEasternShrimp("Дальневосточная"))
                 .addAnimal(new AlbinoСlawedАrog("Шпорцевая, альбинос"))
                 .addAnimal(new Gimenohirus("Гименохирус"))
-                .addAnimal(new YellowAmularia("Желтая Ампулярия"))
+                .addAnimal(new YellowAmularia("Желтая Амулярия"))
                 .addAnimal(new CrestedNewt("Гребенчатый тритон"));
         System.out.println(aquarium.toString());
 

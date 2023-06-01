@@ -9,11 +9,11 @@ public abstract class AquariumAnimals {
 
 
     public abstract String feed();
-    public abstract String sound();
+
     public abstract String move();
 
     @Override
     public String toString() {
-        return String.format("%s, питается: %s, %s, %s.", name, feed(),sound(),move());
+        return String.format("%s, питается: %s, %s.", name, feed(),move());
     }
 }
