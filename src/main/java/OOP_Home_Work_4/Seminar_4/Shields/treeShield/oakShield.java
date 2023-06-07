@@ -1,0 +1,12 @@
+package OOP_Home_Work_4.Seminar_4.Shields.treeShield;
+
+public class oakShield implements treeShield {
+    @Override
+    public int armor() {
+        return 6;
+    }
+    @Override
+    public String toString() {
+        return String.format("oakShield: %d ", armor());
+    }
+}

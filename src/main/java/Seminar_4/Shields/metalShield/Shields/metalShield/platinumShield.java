@@ -1,0 +1,12 @@
+package Seminar_4.Shields.metalShield.Shields.metalShield;
+
+public class platinumShield implements metalShield {
+    @Override
+    public int armor() {
+        return 10;
+    }
+    @Override
+    public String toString() {
+        return String.format("platinumShield: %d ", armor());
+    }
+}

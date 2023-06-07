@@ -1,6 +1,6 @@
-package Seminar_4;
-import Seminar_4.Warriors.Warrior;
-import Seminar_4.Weapons.Weapon;
+package OOP_Home_Work_4.Seminar_4;
+import OOP_Home_Work_4.Seminar_4.Warriors.Warrior;
+
 public class Battle {
     private Warrior w1;
     private Warrior w2;

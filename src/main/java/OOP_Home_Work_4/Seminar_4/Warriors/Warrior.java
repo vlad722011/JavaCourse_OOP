@@ -1,7 +1,7 @@
-package Seminar_4.Warriors;
+package OOP_Home_Work_4.Seminar_4.Warriors;
 
-import Seminar_4.Shields.Shield;
-import Seminar_4.Weapons.Weapon;
+import OOP_Home_Work_4.Seminar_4.Shields.Shield;
+import OOP_Home_Work_4.Seminar_4.Weapons.Weapon;
 
 import java.util.Random;
 

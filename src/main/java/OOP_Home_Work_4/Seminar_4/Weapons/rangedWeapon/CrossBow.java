@@ -1,6 +1,6 @@
-package Seminar_4.Weapons.rangedWeapon;
+package OOP_Home_Work_4.Seminar_4.Weapons.rangedWeapon;
 
-public class CrossBow implements Ranged{
+public class CrossBow implements Ranged {
     @Override
     public int damage() {
         return 11;

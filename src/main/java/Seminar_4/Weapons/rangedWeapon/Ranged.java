@@ -4,5 +4,4 @@ import Seminar_4.Weapons.Weapon;
 
 public interface Ranged extends Weapon {
     int distance();
-
 }

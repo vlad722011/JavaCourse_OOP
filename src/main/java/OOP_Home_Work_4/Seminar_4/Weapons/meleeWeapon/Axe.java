@@ -1,6 +1,6 @@
-package Seminar_4.Weapons.meleeWeapon;
+package OOP_Home_Work_4.Seminar_4.Weapons.meleeWeapon;
 
-public class Axe implements Melee{
+public class Axe implements Melee {
     @Override
     public int damage() {
         return 16;
